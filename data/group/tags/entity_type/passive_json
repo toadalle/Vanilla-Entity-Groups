@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:allay",
+    "minecraft:armadillo",
+    "minecraft:axolotl",
+    "minecraft:bat",
+    "minecraft:cat",
+    "minecraft:cod",
+    "minecraft:copper_golem",
+    "minecraft:dolphin",
+    "minecraft:fox",
+    "minecraft:frog",
+    "minecraft:glow_squid",
+    "minecraft:happy_ghast",
+    "minecraft:nautilus",
+    "minecraft:ocelot",
+    "minecraft:panda",
+    "minecraft:parrot",
+    "minecraft:salmon",
+    "minecraft:skeleton_horse",
+    "minecraft:sniffer",
+    "minecraft:snow_golem",
+    "minecraft:squid",
+    "minecraft:strider",
+    "minecraft:sulfur_cube",
+    "minecraft:tadpole",
+    "minecraft:trader_llama",
+    "minecraft:tropical_fish",
+    "minecraft:turtle",
+    "minecraft:zombie_horse"
+  ]
+}
