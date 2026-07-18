@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:bee",
+    "minecraft:camel_husk",
+    "minecraft:iron_golem",
+    "minecraft:piglin",
+    "minecraft:polar_bear",
+    "minecraft:pufferfish",
+    "minecraft:wolf",
+    "minecraft:zombie_nautilus",
+    "minecraft:zombified_piglin"
+  ]
+}

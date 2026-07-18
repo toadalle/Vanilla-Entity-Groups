@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "pack_format": 107.1,
+    "description": [
+      {
+        "text": "Vanilla Entity Groups\n",
+        "color": "gold"
+      },
+      {
+        "text": "Provides reusable vanilla entity type groups for commands and datapacks.",
+        "color": "gray"
+      }
+    ]
+  }
+}
