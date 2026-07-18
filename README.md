@@ -1,2 +1,28 @@
-# Vanilla-Entity-Groups
-A lightweight library of reusable vanilla entity type groups for organizing and targeting entities in commands and datapacks.
+# Vanilla Entity Groups
+
+Vanilla Entity Groups is a lightweight datapack that categorizes vanilla entity types into reusable groups such as **Hostile**, **Neutral**, **Passive**, and **Livestock**.
+
+Instead of manually listing every entity type in your commands or datapacks, you can target an entire category with a single selector.
+
+### Example
+
+Instead of writing:
+
+```mcfunction
+/kill @e[type=zombie,type=skeleton,type=creeper,...]
+```
+
+you can simply write:
+
+```mcfunction
+/kill @e[type=#group:hostile]
+```
+
+The included groups work anywhere Minecraft accepts entity type tags, making commands shorter, easier to read, and easier to maintain. Whether you're building a datapack, creating an adventure map, using command blocks, or simply running commands in-game, Vanilla Entity Groups lets you target categories of vanilla entities without repeatedly maintaining long lists of entity types.
+
+## Included Groups
+
+- **Hostile** – Aggressive entities that attack on sight.
+- **Neutral** – Entities that become hostile only under certain conditions.
+- **Passive** – Peaceful entities that never attack the player.
+- **Livestock** – Common farm animals and domesticated creatures.
