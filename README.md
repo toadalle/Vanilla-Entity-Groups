@@ -1,3 +1,6 @@
+![Minecraft](https://img.shields.io/badge/Minecraft-26.2-green)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Version](https://img.shields.io/badge/Version-1.0.0-orange)
 # Vanilla Entity Groups
 
 Vanilla Entity Groups is a lightweight datapack that categorizes vanilla entity types into reusable groups such as **Hostile**, **Neutral**, **Passive**, and **Livestock**.
