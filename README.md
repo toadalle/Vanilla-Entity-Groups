@@ -4,6 +4,15 @@ Vanilla Entity Groups is a lightweight datapack that categorizes vanilla entity 
 
 Instead of manually listing every entity type in your commands or datapacks, you can target an entire category with a single selector.
 
+## Features
+
+- Categorizes vanilla entity types into reusable groups.
+- Simplifies entity selectors.
+- No functions or scoreboards.
+- Zero performance impact.
+- Works anywhere entity type tags are accepted.
+- Multiplayer compatible.
+
 ### Example
 
 Instead of writing:
