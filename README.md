@@ -12,6 +12,7 @@ Instead of manually listing every entity type in your commands or datapacks, you
 - Zero performance impact.
 - Works anywhere entity type tags are accepted.
 - Multiplayer compatible.
+- Compatible with vanilla Minecraft 26.2 and usable in commands, command blocks, functions, adventure maps, and other datapacks.
 
 ### Example
 
@@ -35,3 +36,6 @@ The included groups work anywhere Minecraft accepts entity type tags, making com
 - **Neutral** – Entities that become hostile only under certain conditions.
 - **Passive** – Peaceful entities that never attack the player.
 - **Livestock** – Common farm animals and domesticated creatures.
+
+## Icon
+<img width="1254" height="1254" alt="VEG Icon" src="https://github.com/user-attachments/assets/7aa2fc00-a7a2-4619-a754-550f2b5aa2dc" />
